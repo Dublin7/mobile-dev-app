@@ -21,9 +21,3 @@ It combines a Linux terminal, code editor, GitHub sync, and build toolchain — 
 ✅ Dark Mode  
 ✅ Onboarding Tutorial  
 ✅ Command Helper & Error Explanations
-
----
-
-## 📷 Screenshots
-
-> *(Add screenshots after your first working UI build)*

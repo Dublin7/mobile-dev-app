@@ -1,1 +1,0 @@
-echo "include ':app'\nrootProject.name = 'MobileDevApp'" > settings.gradle

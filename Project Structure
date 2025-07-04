@@ -1,0 +1,11 @@
+mobile-dev-app/
+├── app/            # Android source code
+├── libs/           # Native binaries (e.g. libtermexec.so)
+├── editor/         # Editor integration (CodeMirror/Monaco)
+├── terminal/       # Terminal engine wrapper
+├── git/            # Git & GitHub logic
+├── build-tools/    # Language-specific build systems
+├── plugins/        # Plugin loader
+├── ui/             # Jetpack Compose or XML UIs
+├── settings/       # Config, themes, SQLite
+

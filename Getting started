@@ -1,0 +1,13 @@
+### Prerequisites
+- Android Studio Arctic Fox+
+- Android SDK 31+
+- Git, JDK
+
+### Setup
+
+```bash
+git clone https://github.com/Dublin7/mobile-dev-app.git
+cd mobile-dev-app
+open in Android Studio
+Run on emulator or physical device (API 29+)
+
